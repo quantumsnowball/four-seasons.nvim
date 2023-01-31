@@ -580,7 +580,7 @@ M.load_plugin_syntax = function(palette)
             style = 'italic',
         },
         ["@keyword.function"] = {
-            fg = palette.aqua,
+            fg = palette.pink,
             style = 'italic',
         },
         ["@keyword.operator"] = {
