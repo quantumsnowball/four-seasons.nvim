@@ -348,7 +348,7 @@ M.load_syntax = function(palette)
             fg = palette.green,
         },
         Include = {
-            fg = palette.aqua,
+            fg = palette.pink,
             style = 'italic',
         },
         Define = {
@@ -572,7 +572,7 @@ M.load_plugin_syntax = function(palette)
             style = 'italic',
         },
         ["@include"] = {
-            fg = palette.aqua,
+            fg = palette.pink,
             style = 'italic',
         },
         ["@keyword"] = {
@@ -905,4 +905,3 @@ M.setup = function(config)
 end
 
 return M
-
