@@ -565,7 +565,7 @@ M.load_plugin_syntax = function(palette)
             fg = palette.aqua,
         },
         ["@function.call"] = {
-            fg = palette.white,
+            fg = palette.green,
         },
         ["@function.macro"] = {
             fg = palette.green,
