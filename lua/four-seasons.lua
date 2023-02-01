@@ -597,7 +597,7 @@ M.load_plugin_syntax = function(palette)
             fg = palette.green,
         },
         ["@method.call"] = {
-            fg = palette.white,
+            fg = palette.green,
         },
         ["@namespace"] = {
             fg = palette.purple,
