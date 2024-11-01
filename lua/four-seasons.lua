@@ -863,7 +863,7 @@ end
 local default_config = {
     palette = M.classic,
     custom_hlgroups = {},
-    italics = true,
+    italics = false,
 }
 
 M.setup = function(config)
